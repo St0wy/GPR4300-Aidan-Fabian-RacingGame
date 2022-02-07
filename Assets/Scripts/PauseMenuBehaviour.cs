@@ -1,6 +1,7 @@
 ﻿using System;
 using JetBrains.Annotations;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 namespace RacingGame
@@ -8,7 +9,7 @@ namespace RacingGame
     public class PauseMenuBehaviour : MonoBehaviour
     {
         public static bool IsPaused = false;
-        
+
         [SerializeField] private GameObject pauseMenuUI;
         [SerializeField] private Button resumeButton;
 
@@ -16,7 +17,8 @@ namespace RacingGame
         public void LoadMenu()
         {
             Time.timeScale = 1f;
-            Debug.Log("Loading Menu");
+            IsPaused = false;
+            SceneManager.LoadScene(0);
         }
 
         [UsedImplicitly]
@@ -24,7 +26,7 @@ namespace RacingGame
         {
             Application.Quit();
         }
-        
+
         public void Pause()
         {
             pauseMenuUI.SetActive(true);
@@ -41,10 +43,11 @@ namespace RacingGame
             Time.timeScale = 1f;
             IsPaused = false;
         }
-        
+
         [UsedImplicitly]
         private void OnPause()
         {
+            Debug.Log(IsPaused);
             if (IsPaused)
             {
                 Resume();
