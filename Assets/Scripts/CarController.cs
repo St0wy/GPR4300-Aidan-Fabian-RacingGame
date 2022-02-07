@@ -69,7 +69,7 @@ namespace RacingGame
             var inputVector = inputHandler.InputVector;
             accelerationInput = inputVector.y;
             steeringInput = inputVector.x;
-            
+
             // Apply the movement
             ApplyEngineForce();
             KillOrthogonalVelocity();

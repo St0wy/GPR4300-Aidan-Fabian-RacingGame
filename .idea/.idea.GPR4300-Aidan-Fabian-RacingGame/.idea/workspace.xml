@@ -2,69 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7824465c-b243-4ec3-9be2-4a5a9521e2c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Skidmarks.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Skidmarks.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/SmokeParticle.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/SmokeParticle.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/WheelParticleHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/WheelParticleHandler.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/WheelTrailRendererHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/WheelTrailRendererHandler.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke00.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke06.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke07.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke08.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke09.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke10.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke11.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke12.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke13.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke14.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke15.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke16.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke17.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke18.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke19.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke20.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke21.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke22.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke23.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Smoke/blackSmoke24.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mixers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mixers/DefaultAudioMixer.mixer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mixers/DefaultAudioMixer.mixer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CarSfxHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CarSfxHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sfx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sfx/CarEngine.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sfx/CarEngine.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sfx/carhit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sfx/carhit.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sfx/tirescreech.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sfx/tirescreech.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds.7z" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GPR4300-Aidan-Fabian-RacingGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GPR4300-Aidan-Fabian-RacingGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Car.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Car.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FabianTestCar.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FabianTestCar.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CarController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WheelParticleHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WheelParticleHandler.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="rider.run.widget.enabled.cache" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -141,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644087125213</updated>
       <workItem from="1644087145837" duration="8532000" />
-      <workItem from="1644252574603" duration="3187000" />
+      <workItem from="1644252574603" duration="6466000" />
     </task>
     <servers />
   </component>

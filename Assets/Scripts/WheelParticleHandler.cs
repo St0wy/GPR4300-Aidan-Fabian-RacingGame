@@ -10,15 +10,15 @@ namespace RacingGame
         private float particleEmissionRate = 0;
 
         private CarController carController;
-        private ParticleSystem particleSystem;
+        private ParticleSystem particleSystemComponent;
         private ParticleSystem.EmissionModule particleEmissionModule;
 
         private void Awake()
         {
             // Get the components
             carController = GetComponentInParent<CarController>();
-            particleSystem = GetComponent<ParticleSystem>();
-            particleEmissionModule = particleSystem.emission;
+            particleSystemComponent = GetComponent<ParticleSystem>();
+            particleEmissionModule = particleSystemComponent.emission;
 
             // Set the emission to 0
             particleEmissionModule.rateOverTime = 0;
