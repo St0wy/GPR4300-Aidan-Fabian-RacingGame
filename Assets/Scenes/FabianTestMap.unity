@@ -191,6 +191,7 @@ GameObject:
   - component: {fileID: 598387564}
   - component: {fileID: 598387563}
   - component: {fileID: 598387562}
+  - component: {fileID: 598387565}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -257,12 +258,29 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 598387561}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 7.41, y: -0.5, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &598387565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598387561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87544793f8128034095c30aec439ab5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 915664050}
+  damping: 0.2
+  lookAheadFactor: 3
+  lookAheadReturnSpeed: 0.5
+  lookAheadMoveThreshold: 0.1
 --- !u!1 &808829232
 GameObject:
   m_ObjectHideFlags: 0
@@ -13555,6 +13573,11 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!4 &915664050 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7656016374732096068, guid: 30504deadb05f734b842f61c31750066, type: 3}
+  m_PrefabInstance: {fileID: 464714031}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1311039872
 GameObject:
   m_ObjectHideFlags: 0
