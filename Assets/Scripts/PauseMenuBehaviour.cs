@@ -12,6 +12,15 @@ namespace RacingGame
 
         [SerializeField] private GameObject pauseMenuUI;
         [SerializeField] private Button resumeButton;
+        [SerializeField] private GameObject car;
+        
+        private IInputHandler inputHandler;
+
+        private void Awake()
+        {
+            inputHandler = car.GetComponent<IInputHandler>();
+            inputHandler.Pause += OnPause;
+        }
 
         [UsedImplicitly]
         public void LoadMenu()
@@ -47,7 +56,6 @@ namespace RacingGame
         [UsedImplicitly]
         private void OnPause()
         {
-            Debug.Log(IsPaused);
             if (IsPaused)
             {
                 Resume();

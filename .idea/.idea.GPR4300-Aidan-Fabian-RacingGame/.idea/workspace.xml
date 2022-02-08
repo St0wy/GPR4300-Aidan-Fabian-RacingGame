@@ -2,25 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7824465c-b243-4ec3-9be2-4a5a9521e2c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Mixers.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Mixers/DefaultAudioMixer.mixer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Mixers/DefaultAudioMixer.mixer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CarSfxHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CarSfxHandler.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sfx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sfx/CarEngine.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sfx/CarEngine.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sfx/carhit.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sfx/carhit.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sfx/tirescreech.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sfx/tirescreech.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builds.7z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Music.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Music/GasGasGas.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Music/GasGasGas.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/RacingGameInputs.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/RacingGameInputs.inputactions.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GPR4300-Aidan-Fabian-RacingGame/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GPR4300-Aidan-Fabian-RacingGame/.idea/discord.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GPR4300-Aidan-Fabian-RacingGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GPR4300-Aidan-Fabian-RacingGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Car.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Car.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fabian-RacingGame.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fabian-RacingGame.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mixers/DefaultAudioMixer.mixer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mixers/DefaultAudioMixer.mixer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/FabianTestCar.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FabianTestCar.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CarController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WheelParticleHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WheelParticleHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CarInputHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CarInputHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IInputHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/IInputHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PauseMenuBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PauseMenuBehaviour.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +30,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@2.0.7/Rider/Editor/RiderScriptEditor.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,7 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="rider.run.widget.enabled.cache" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -98,6 +97,9 @@
       <updated>1644087125213</updated>
       <workItem from="1644087145837" duration="8532000" />
       <workItem from="1644252574603" duration="6466000" />
+      <workItem from="1644262757997" duration="378000" />
+      <workItem from="1644327530233" duration="138000" />
+      <workItem from="1644327733588" duration="2510000" />
     </task>
     <servers />
   </component>
