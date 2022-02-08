@@ -13,7 +13,9 @@ namespace RacingGame
         [SerializeField] private GameObject pauseMenuUI;
         [SerializeField] private Button resumeButton;
         [SerializeField] private GameObject car;
-        
+
+        [SerializeField] private GameObject winText;
+
         private IInputHandler inputHandler;
 
         private void Awake()
@@ -42,6 +44,12 @@ namespace RacingGame
             resumeButton.Select();
             Time.timeScale = 0f;
             IsPaused = true;
+
+            if (winText.activeSelf)
+            {
+                resumeButton.gameObject.SetActive(false);
+                winText.SetActive(false);
+            }
         }
 
         [UsedImplicitly]
