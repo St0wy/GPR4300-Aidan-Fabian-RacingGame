@@ -61,6 +61,7 @@ namespace RacingGame
         {
             carRigidbody = GetComponent<Rigidbody2D>();
             inputHandler = GetComponent<IInputHandler>();
+            rotationAngle = transform.rotation.eulerAngles.z;
         }
 
         private void FixedUpdate()

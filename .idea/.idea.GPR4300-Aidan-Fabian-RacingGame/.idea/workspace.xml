@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7824465c-b243-4ec3-9be2-4a5a9521e2c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Music.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/GasGasGas.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/GasGasGas.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/RacingGameInputs.inputactions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/RacingGameInputs.inputactions.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GPR4300-Aidan-Fabian-RacingGame/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GPR4300-Aidan-Fabian-RacingGame/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/FabianTestMap.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/FabianTestMap.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Camera2DFollow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Camera2DFollow.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GPR4300-Aidan-Fabian-RacingGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GPR4300-Aidan-Fabian-RacingGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fabian-RacingGame.inputactions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fabian-RacingGame.inputactions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mixers/DefaultAudioMixer.mixer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mixers/DefaultAudioMixer.mixer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FabianTestCar.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FabianTestCar.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CarInputHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CarInputHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IInputHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/IInputHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PauseMenuBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PauseMenuBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CarController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +92,8 @@
       <workItem from="1644252574603" duration="6466000" />
       <workItem from="1644262757997" duration="378000" />
       <workItem from="1644327530233" duration="138000" />
-      <workItem from="1644327733588" duration="2510000" />
+      <workItem from="1644327733588" duration="3147000" />
+      <workItem from="1644344345164" duration="810000" />
     </task>
     <servers />
   </component>
